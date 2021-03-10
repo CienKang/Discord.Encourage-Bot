@@ -40,4 +40,6 @@ Also the use of api to give random quotes.
  ##  Reference
 For more Details use official documentation of [discord.js](https://discord.js.org/#/)
 
+You can go to Website which offers free api for random quotes : [zenquotes](https://zenquotes.io/api)
+
 This Project was made after watching the following video : [Youtube](https://www.youtube.com/watch?v=7rU_KyudGBY)
