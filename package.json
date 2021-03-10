@@ -1,0 +1,18 @@
+{
+  "name": "encourage-bot",
+  "version": "1.0.0",
+  "description": "An encouragement Bot that gives random quotes",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.2.10",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CienKang",
+  "license": "ISC"
+}
